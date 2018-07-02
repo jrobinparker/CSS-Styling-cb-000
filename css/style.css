@@ -8,7 +8,7 @@ p {
 }
 
 figcaption {
-  font: normal .75em/1.5em Georgia, "New Times Roman", serif;
+  font: normal .75em/1.5em 'Elsie Swash Caps', cursive, "New Times Roman", serif;
   color: #777;
   text-align: right;
 }
