@@ -30,5 +30,7 @@ figcaption {
     font-family: "Elsie Swash Caps", cursive;
 }
 
-a:
+#details a:link {
+  
+}
 
