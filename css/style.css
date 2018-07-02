@@ -21,13 +21,12 @@ figcaption {
 
 #logo {
   background: aqua;
-  h1 {
+}
+#logo  h1 {
     font-family: "Clicker Script", cursive;
-  };
-  h2 {
+}
+
+#logo h2 {
     font-family: "Elsie Swash Caps", cursive;
-  };
-  };
-  };
 }
 
